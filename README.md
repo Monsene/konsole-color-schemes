@@ -1,7 +1,7 @@
 ## Aplumak
-[![Aplumak](https://github.com/joaopedroaats/konsole-themes/tree/master/Aplumak/preview.png)](https://www.pling.com/p/1415614/)
+[![Aplumak](https://raw.githubusercontent.com/joaopedroaats/konsole-themes/master/Aplumak/preview.png](https://www.pling.com/p/1415614/)
 
 
 ## Azeny
-[![Azeny](https://github.com/joaopedroaats/konsole-themes/tree/master/Azeny/preview.png)](https://www.pling.com/p/1507597/)
+[![Azeny](https://raw.githubusercontent.com/joaopedroaats/konsole-themes/master/Azeny/preview.png)](https://www.pling.com/p/1507597/)
 
