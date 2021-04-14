@@ -35,40 +35,40 @@ Color=77,222,218
 Color=77,222,218
 
 [Color3]
-Color=222,104,175
+Color=104,222,151
 
 [Color3Faint]
-Color=222,104,175
+Color=104,222,151
 
 [Color3Intense]
-Color=222,104,175
+Color=104,222,151
 
 [Color4]
-Color=136,97,222
+Color=210,102,234
 
 [Color4Faint]
-Color=136,97,222
+Color=102,126,234
 
 [Color4Intense]
-Color=136,97,222
+Color=102,126,234
 
 [Color5]
-Color=222,218,77
+Color=222,104,175
 
 [Color5Faint]
-Color=222,218,77
+Color=222,104,175
 
 [Color5Intense]
-Color=222,218,77
+Color=222,104,175
 
 [Color6]
-Color=102,126,234
+Color=144,102,234
 
 [Color6Faint]
-Color=102,126,234
+Color=144,102,234
 
 [Color6Intense]
-Color=102,126,234
+Color=144,102,234
 
 [Color7]
 Color=222,222,222
@@ -91,6 +91,6 @@ Color=222,222,222
 [General]
 Blur=true
 ColorRandomization=false
-Description=Azeny
-Opacity=0.73
+Description=Aplumak
+Opacity=0.77
 Wallpaper=
