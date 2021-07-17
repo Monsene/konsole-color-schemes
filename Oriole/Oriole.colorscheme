@@ -1,11 +1,11 @@
 [Background]
-Color=40,42,54
+Color=55,58,75
 
 [BackgroundFaint]
-Color=40,42,54
+Color=55,58,75
 
 [BackgroundIntense]
-Color=40,42,54
+Color=55,58,75
 
 [Color0]
 Color=9,13,33
@@ -17,58 +17,58 @@ Color=9,13,33
 Color=222,222,222
 
 [Color1]
-Color=229,152,155
+Color=255,207,202
 
 [Color1Faint]
-Color=229,152,155
+Color=255,207,202
 
 [Color1Intense]
-Color=229,152,155
+Color=255,207,202
 
 [Color2]
-Color=255,205,178
+Color=255,255,255
 
 [Color2Faint]
-Color=255,205,178
+Color=255,255,255
 
 [Color2Intense]
-Color=255,205,178
+Color=255,255,255
 
 [Color3]
-Color=178,228,255
+Color=192,234,102
 
 [Color3Faint]
-Color=178,228,255
+Color=192,234,102
 
 [Color3Intense]
-Color=178,228,255
+Color=192,234,102
 
 [Color4]
-Color=229,152,155
+Color=192,234,102
 
 [Color4Faint]
-Color=229,152,155
+Color=192,234,102
 
 [Color4Intense]
-Color=229,152,155
+Color=192,234,102
 
 [Color5]
-Color=255,205,178
+Color=102,234,210
 
 [Color5Faint]
-Color=255,205,178
+Color=102,234,210
 
 [Color5Intense]
-Color=255,205,178
+Color=102,234,210
 
 [Color6]
-Color=231,162,165
+Color=153,187,81
 
 [Color6Faint]
-Color=231,162,165
+Color=153,187,81
 
 [Color6Intense]
-Color=231,162,165
+Color=153,187,81
 
 [Color7]
 Color=222,222,222
@@ -91,6 +91,6 @@ Color=222,222,222
 [General]
 Blur=true
 ColorRandomization=false
-Description=Apricot
+Description=Oriole
 Opacity=0.77
 Wallpaper=
