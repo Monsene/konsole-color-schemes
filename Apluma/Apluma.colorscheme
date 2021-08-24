@@ -47,10 +47,10 @@ Color=104,222,151
 Color=210,102,234
 
 [Color4Faint]
-Color=102,126,234
+Color=210,102,234
 
 [Color4Intense]
-Color=102,126,234
+Color=210,102,234
 
 [Color5]
 Color=222,104,175
@@ -92,5 +92,5 @@ Color=222,222,222
 Blur=true
 ColorRandomization=false
 Description=Apluma
-Opacity=0.77
+Opacity=0.74
 Wallpaper=

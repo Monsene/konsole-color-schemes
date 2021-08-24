@@ -1,11 +1,11 @@
 [Background]
-Color=23,0,47
+Color=36,37,48
 
 [BackgroundFaint]
-Color=23,0,47
+Color=36,37,48
 
 [BackgroundIntense]
-Color=23,0,47
+Color=36,37,48
 
 [Color0]
 Color=9,13,33
@@ -91,6 +91,6 @@ Color=200,200,200
 [General]
 Blur=true
 ColorRandomization=false
-Description=Awave
+Description=Awave Dark
 Opacity=0.77
 Wallpaper=

@@ -17,40 +17,40 @@ Color=9,13,33
 Color=222,222,222
 
 [Color1]
-Color=65,155,221
+Color=255,179,211
 
 [Color1Faint]
-Color=65,155,221
+Color=255,179,211
 
 [Color1Intense]
-Color=65,155,221
+Color=255,179,211
 
 [Color2]
-Color=86,232,242
+Color=242,242,242
 
 [Color2Faint]
-Color=77,222,218
+Color=242,242,242
 
 [Color2Intense]
-Color=77,222,218
+Color=242,242,242
 
 [Color3]
-Color=252,252,252
+Color=185,179,255
 
 [Color3Faint]
-Color=252,252,252
+Color=185,179,255
 
 [Color3Intense]
-Color=252,252,252
+Color=185,179,255
 
 [Color4]
-Color=86,232,242
+Color=185,179,255
 
 [Color4Faint]
-Color=86,232,242
+Color=185,179,255
 
 [Color4Intense]
-Color=86,232,242
+Color=185,179,255
 
 [Color5]
 Color=248,144,231
@@ -62,13 +62,13 @@ Color=248,144,231
 Color=248,144,231
 
 [Color6]
-Color=54,190,174
+Color=185,179,255
 
 [Color6Faint]
-Color=54,190,174
+Color=185,179,255
 
 [Color6Intense]
-Color=54,190,174
+Color=185,179,255
 
 [Color7]
 Color=222,222,222
@@ -91,6 +91,6 @@ Color=200,200,200
 [General]
 Blur=true
 ColorRandomization=false
-Description=Awave
+Description=Triton
 Opacity=0.77
 Wallpaper=
